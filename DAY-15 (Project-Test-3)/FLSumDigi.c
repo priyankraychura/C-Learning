@@ -16,7 +16,7 @@ int main(){
     
     sum = first + last;
 
-    printf("%c ", sum);
+    printf("%d ", sum);
 
     return 0;
 }

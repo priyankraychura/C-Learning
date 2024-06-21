@@ -3,10 +3,10 @@
 int main(){
     char ch = 'A';
 
-    while(ch <= 'Z'){
+    do{
         printf("%c ", ch);
         ch += 4;
-    }
+    }while(ch <= 'Z');
 
     return 0;
 }
