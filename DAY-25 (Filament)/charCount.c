@@ -11,7 +11,7 @@ int main() {
 
     // Calculate the frequency of each character
     for (i = 0; str[i] != '\0'; i++) {
-        printf(str[i]);
+        // printf("%d\n",count[str[i]]);
         count[str[i]]++;
     }
 
