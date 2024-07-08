@@ -15,8 +15,5 @@ int main(){
 
     printf("Enter a name: ");
     gets(name);
-
-    strLen(name);
-
     return 0;
 }
