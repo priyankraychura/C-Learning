@@ -1,0 +1,4 @@
+This is some new content
+This is another line
+This is appended content
+This is another line in the file to be appended
